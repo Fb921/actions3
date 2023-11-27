@@ -1,6 +1,6 @@
 {
   "name": "@fb921/actions3",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "private": false,
   "main": "src/",
   "type": "module",
