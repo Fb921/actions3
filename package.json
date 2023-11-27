@@ -1,6 +1,6 @@
 {
   "name": "@fb921/actions3",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "private": false,
   "main": "src/",
   "type": "module",
@@ -16,6 +16,7 @@
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
+    "test": "react-scripts test",
     "serve": "npx webpack serve --mode development"
   },
   "eslintConfig": {
